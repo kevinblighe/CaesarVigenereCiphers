@@ -1,4 +1,4 @@
-# VigenereCipher
+# VigenèreCipher
 Vigenère cipher GUI based on modern-day English alphabet.
 <h1>Instructions</h1>
 Execute the program with:
