@@ -5,4 +5,7 @@ Execute the program with:
 <br>
 <code>java VigenereApp</code>
 <br>
-The key word for encryption is <i>DECEPTIVE</i>, specified as a static variable in <i>Vigenere.java</i>
+<br>
+Key for encryption/decryption (static variable in <i>Vigenere.java</i>):
+<br>
+<i>DECEPTIVE</i>
