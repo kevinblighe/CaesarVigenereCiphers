@@ -210,7 +210,6 @@ public class CaeserCipher extends JFrame implements ActionListener
 	}
 
 	// decrypt only accepts a String as parameter
-	// I COULDNT BE ARSED OVERLOADING IT TO ACCEPT A FILE OBJECT
 	public void decrypt( String textToDecrypt )
 	{
 		// reset the result
