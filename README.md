@@ -19,3 +19,5 @@ Execute the program with:
 Key for encryption/decryption (final private String in <i>Vigenere.java</i>):
 <br>
 <i>DECEPTIVE</i>
+<h2>Credits</h2>
+Kevin Blighe; Dublin Institute of Technology
