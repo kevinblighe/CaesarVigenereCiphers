@@ -20,4 +20,7 @@ Key for encryption/decryption (final private String in <i>Vigenere.java</i>):
 <br>
 <i>DECEPTIVE</i>
 <h1>Credits</h1>
-Kevin Blighe; Dublin Institute of Technology
+<ul>
+  <li>Kevin Blighe (Dublin Institute of Technology)</li>
+  <li>Dublin Institute of Technology School of Computing</li>
+</ul>
